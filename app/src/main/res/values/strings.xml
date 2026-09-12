@@ -2,4 +2,6 @@
     <string name="app_name">NanoAlarm</string>
     <string name="banner_text">NanoAlarm — placeholder build</string>
     <string name="subtitle_text">This is a smoke-test app. If you can read this, it installed and launched correctly.</string>
+    <string name="alarm_channel_name">Alarms</string>
+    <string name="alarm_notification_title">Alarm</string>
 </resources>

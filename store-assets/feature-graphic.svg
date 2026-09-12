@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
   <rect width="1024" height="500" fill="#1B4332"/>
   <text x="512" y="270" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="120" fill="#FFFFFF">NanoAlarm</text>
-  <text x="512" y="330" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" fill="#CBE3D4">placeholder build</text>
+  <text x="512" y="330" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" fill="#CBE3D4">Proof-of-concept</text>
 </svg>

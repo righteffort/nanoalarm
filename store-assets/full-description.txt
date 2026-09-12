@@ -1,0 +1,12 @@
+NanoAlarm is a minimal proof-of-concept alarm clock app that does one thing: it sets a single, one-time alarm and rings it reliably, using system default behaviors and mechanisms.
+
+What NanoAlarm does:
+• Sets a single one-time alarm for a specific time
+• Rings reliably, exactly on schedule — not late, not silently skipped because the phone was idle or in a power-saving mode
+• Wakes the screen and shows a full-screen alert over the lock screen
+• Plays sound loud enough to hear even if your phone is set to silent or Do Not Disturb
+
+What it doesn't do yet:
+This is an early, intentionally minimal build. It does not currently support repeating alarms, snooze, custom sounds, multiple simultaneous alarms, or recovery after a device reboot — an alarm scheduled before a reboot is lost. These are deliberately out of scope while the core alarm reliability is being proven out.
+
+If you want a full-featured alarm clock app, this isn't it yet.

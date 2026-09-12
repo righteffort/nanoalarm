@@ -9,6 +9,7 @@ build/
 .cxx/
 *.apk
 *.aab
+/.notes
 *~
 
 # Keystores and signing secrets must never be committed.
