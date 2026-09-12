@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NanoAlarm</string>
+    <string name="banner_text">NanoAlarm — placeholder build</string>
+    <string name="subtitle_text">This is a smoke-test app. If you can read this, it installed and launched correctly.</string>
+</resources>
